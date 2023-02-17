@@ -1,6 +1,8 @@
 var fileGenerator = require("./fileGenerator");
 var fs = require("fs");
-var inquirer = require('inquirer');
+// var inquirer = require('inquirer');
+import fetch from "node-fetch";
+const fetch = require('node-fetch');
 
 // questions to ask the user //
 let Questions = [
