@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "inquirer": "^9.1.4",
-    "node-fetch": "^2.6.9"
+    "inquirer": "^8.2.5"
   }
 }
