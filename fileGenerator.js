@@ -1,7 +1,8 @@
 function fileGenerator(response) {
     var content = `# ${response.title}
     ##### ${response.logo}[${response.userName}](${response.GitHub}) [Email Me](${response.email}) [Deployed Application]()
-    #### ReadMeGenerator© 2022 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
+    #### ReadMeGenerator© 2022 All Rights Reserved.  
+    ${response.license} All material must be cited or credited, when using material (free to use).
     
     ## Table of Contents
     * [Repository Description](#Repository-Description)

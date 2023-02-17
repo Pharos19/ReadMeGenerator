@@ -1,4 +1,4 @@
-var fileGenerator = require("./fileGenerator.js");
+var fileGenerator = require("./fileGenerator");
 var fs = require("fs");
 var inquirer = require('inquirer');
 
