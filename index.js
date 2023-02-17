@@ -83,7 +83,7 @@ let Questions = [
 ];
 
 // Function to write to my ReadMe.md and file. //
-inquirer.prompt(questions).then(function(response) {
+inquirer.prompt(Questions).then(function(response) {
     console.log(response);
 
     var content = fileGenerator(response);
