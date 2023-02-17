@@ -1,8 +1,8 @@
-var fileGenerator = require("./fileGenerator");
+var fileGenerator = require("./fileGenerator.js");
 var fs = require("fs");
 var inquirer = require('inquirer');
 
-// Questions to ask the user //
+// questions to ask the user //
 let Questions = [
     {
         type: "input",
