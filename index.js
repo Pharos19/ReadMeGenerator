@@ -57,15 +57,15 @@ let Questions = [
         name: "accomplish"
     },{
         type: "input"
-        message: "Please provide a screenshot (1 of 3).",
+        ,message: "Please provide a screenshot (1 of 3).",
         name: "scriptjs"
     },{
         type: "input"
-        message: "Please provide a screenshot (2 of 3).",
+        ,message: "Please provide a screenshot (2 of 3).",
         name: "fileGenerator"
     },{
         type: "input"
-        message: "Please provide a screenshot (3 of 3).",
+       ,message: "Please provide a screenshot (3 of 3).",
         name: "ReadMe"
     },{
         type: "input",
